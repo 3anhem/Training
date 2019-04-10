@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaiThucHanhTuan4</string>
+    <string name="btnNext">&#62;</string>
+    <string name="small"><![CDATA[<]]></string>
+    <string name="big"><![CDATA[>]]></string>
+
+    <string-array name="spinner_default">
+        <item name="value1">1</item>
+        <item name="value2">2</item>
+        <item name="value3">3</item>
+        <item name="value4">4</item>
+    </string-array>
+
+</resources>
