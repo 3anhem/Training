@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameLatBai</string>
+    <string name="score">Score :</string>
+    <string name="score_number">0</string>
+</resources>

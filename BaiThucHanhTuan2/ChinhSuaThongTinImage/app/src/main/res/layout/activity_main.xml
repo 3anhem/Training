@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/checkGlasses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Glasses"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/checkHair"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hair"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/checkTeeth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Teeth"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Box"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/white" />
+
+
+    <ImageView
+        android:id="@+id/imgGlasses"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:visibility="invisible"
+        android:src="@drawable/glasses" />
+
+    <ImageView
+        android:id="@+id/imgHair"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:visibility="invisible"
+        android:src="@drawable/hair" />
+
+    <ImageView
+        android:id="@+id/imgTeeth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="100dp"
+        android:visibility="invisible"
+        android:src="@drawable/teeth" />
+
+    <ImageView
+        android:id="@+id/imgBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="100dp"
+        android:visibility="invisible"
+        android:src="@drawable/box" />
+
+</RelativeLayout>
