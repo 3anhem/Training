@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>1-Apple</item>
+        <item>2-SamSung</item>
+        <item>3-Sony</item>
+    </string-array>
+</resources>
