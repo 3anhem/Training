@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077859897918",
+    "firebase_url": "https://baithuchanhtuan8.firebaseio.com",
+    "project_id": "baithuchanhtuan8",
+    "storage_bucket": "baithuchanhtuan8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077859897918:android:a2ad41797b5cb99f",
+        "android_client_info": {
+          "package_name": "vn.edu.vtn.baithuchanhtuan8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077859897918-4es5bk8bqn43su7e5rqoddsnohl10os3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByoW9PAWjjrNgn0PpaVZV6IMZ-Aio_Nts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077859897918-4es5bk8bqn43su7e5rqoddsnohl10os3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_cap_nhap">CapNhap</string>
+    <string name="title_activity_option">Option</string>
+</resources>
